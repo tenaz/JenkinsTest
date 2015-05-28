@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/5.0.1/7c8caddfbd0b2d7b844f8fcc75175b9cb9cf4724/asm-util-5.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7c8caddfbd0b2d7b844f8fcc75175b9cb9cf4724">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/asm-util-5.0.1-842af81f93791b062ea5f7c7346bc21352affa95.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.almworks.sqlite4java/sqlite4java/0.282/745a7e2f35fdbe6336922e0d492c979dbbfa74fb/sqlite4java-0.282.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="745a7e2f35fdbe6336922e0d492c979dbbfa74fb">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/sqlite4java-0.282-9cc0028864311eda470e6ceb631e5977035e4df2.jar" />
+    </item>
+    <item
+        jar="/home/user/JenkinsTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/classes-f283be5edaee4539cfd3cfb6a2cf7e5ab34144e5.jar" />
+    </item>
+    <item
+        jar="/home/user/JenkinsTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/classes-295d8b85dce092c6737c4dd5251b6ff88b39c230.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.1/8d47177aa4da0f259fc823a39736bad2f09993d5/hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/hamcrest-integration-1.1-7e8f2d36845131fb23bbfeefa8b20407a5bd9ef7.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.3/fd32786786e2adb664d5ecc965da47629dca14ba/commons-codec-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/commons-codec-1.3-6752f7b8b42e9b4d2e16c0dbd3ab5a45a4d621ef.jar" />
+    </item>
+    <item
+        jar="/home/user/JenkinsTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/internal_impl-22.1.1-6be742be18db8b6b799583e1d0b91f8dc59fcd57.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-ant-tasks/2.1.3/b09be554228d66d208e5fef5266844aacf443abc/maven-ant-tasks-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b09be554228d66d208e5fef5266844aacf443abc">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/maven-ant-tasks-2.1.3-38fd08f08d602f87537a8565bc1f943e364a7ef1.jar" />
+    </item>
+    <item
+        jar="/home/user/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/support-annotations-22.1.1-59a9400fc7f703ce46011abb2871f88ed56fa93a.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.1/e286fbee48efacb4e7c175f7948d9d8b2ab52352/asm-analysis-5.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e286fbee48efacb4e7c175f7948d9d8b2ab52352">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/asm-analysis-5.0.1-5edf790d83bdc675db96ecf00e174a2f8f024ffe.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.3/dc13ae4faca6df981fc7aeb5a522d9db446d5d50/objenesis-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dc13ae4faca6df981fc7aeb5a522d9db446d5d50">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/objenesis-1.3-e42de38488f94acd629ff921379c4468ebddd10b.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.robolectric/robolectric-annotations/2.4/936c649cb0958d7fb5d3c09b31c56b3997f80650/robolectric-annotations-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="936c649cb0958d7fb5d3c09b31c56b3997f80650">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/robolectric-annotations-2.4-c0c4ac3e72c421026cd6bf46d9ed86e36cfe7efe.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/junit-4.12-4c0db06780e8d26dd7d7fb13e637b9b7d51d59c2.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.8.0/8b53ba16fa62fb1034da8f1de200ddc407c8381/ant-launcher-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="08b53ba16fa62fb1034da8f1de200ddc407c8381">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/ant-launcher-1.8.0-bee6a7c60a0a53944d35a5e6698a04a351d050aa.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.1/b988c01468e3398d46678a2eb48aeb5bde271e9f/hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/hamcrest-library-1.1-709d40eebaeabd39af65a052ba08247616519868.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/hamcrest-core-1.1-8c35204ff2d9f7104bf88a81ccb2dc51b46158e5.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant/1.8.0/7b456ca6b93900f96e58cc8371f03d90a9c1c8d1/ant-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b456ca6b93900f96e58cc8371f03d90a9c1c8d1">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/ant-1.8.0-6bc88180a3c7cf75e4d197a6067758e0f153850b.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.1/2fd56467a018aafe6ec6a73ccba520be4a7e1565/asm-5.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2fd56467a018aafe6ec6a73ccba520be4a7e1565">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/asm-5.0.1-d1e1df5c91099ef543aed2538a6e97a793d68dc5.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.1/1b1e6e9d869acd704056d0a4223071a511c619e6/asm-tree-5.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b1e6e9d869acd704056d0a4223071a511c619e6">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/asm-tree-5.0.1-95b06c6af5c3f8707b31c56f1a5a2cc380de16ee.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.ximpleware/vtd-xml/2.11/ee5bcf62c1acf76434ee9f1c67a840bafef72a6d/vtd-xml-2.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ee5bcf62c1acf76434ee9f1c67a840bafef72a6d">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/vtd-xml-2.11-cdc7993273d00c60167f16c739f9198937ffe025.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.robolectric/robolectric/2.4/5b3e395f0e422de3147d42918b7a5b08476f2377/robolectric-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b3e395f0e422de3147d42918b7a5b08476f2377">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/robolectric-2.4-4c9c4af9caed6559983ebf1c835911cc2e3a0f54.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.1/7b7147a390a93a14d2edfdcf3f7b0e87a0939c3e/asm-commons-5.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b7147a390a93a14d2edfdcf3f7b0e87a0939c3e">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/asm-commons-5.0.1-a4325eb285458e2ac4220a603ba956b7b4da88ad.jar" />
+    </item>
+    <item
+        jar="/home/user/JenkinsTest/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="/home/user/JenkinsTest/app/build/intermediates/pre-dexed/unitTest/debug/jacocoagent-b3db3219986f764feec83c2eeaa64c1cc7ed054a.jar" />
+    </item>
+
+</items>
